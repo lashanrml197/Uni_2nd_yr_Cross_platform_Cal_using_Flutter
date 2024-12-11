@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_simple_calculator
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Uni_2nd_yr_Cross_platform_Cal_using_Flutter
+>>>>>>> 83a8b04e0c7233b91f6666129472cb7102a97165
